@@ -1,0 +1,9 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.block {
+    padding-right: 2px;
+    color: rgb(71, 150, 214);
+    cursor: pointer;
+}
